@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14f9c0ea68bb00f4cb7f8c285fc45502, type: 3}
+  m_Name: "Muni\xE7\xE3o Leve"
+  m_EditorClassIdentifier: 
+  ID: ec98c13f-22a7-48e9-b83d-a85234ba125f
+  FriendlyName: "Muni\xE7\xE3o Leve"
+  Description: "Muni\xE7\xE3o leve que pode ser usada com uma pistola."
+  SellPrice: 5
+  Icon: {fileID: 21300000, guid: b106ac71369ff4d4b82a81dc78ab725e, type: 3}
+  SlotDimension:
+    Height: 1
+    Width: 1

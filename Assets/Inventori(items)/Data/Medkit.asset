@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14f9c0ea68bb00f4cb7f8c285fc45502, type: 3}
+  m_Name: Medkit
+  m_EditorClassIdentifier: 
+  ID: f4dc444a-e7e0-4f05-9ff2-45982a3ba30d
+  FriendlyName: Medkit
+  Description: "Um kit m\xE9dico m\xE9dio que cura 100 pontos de vida."
+  SellPrice: 100
+  Icon: {fileID: 21300000, guid: 99d414ff54d4e684dbf2769b60686fe3, type: 3}
+  SlotDimension:
+    Height: 1
+    Width: 1
